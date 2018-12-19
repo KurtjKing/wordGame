@@ -1,0 +1,24 @@
+{
+  "name": "wordGame",
+  "version": "1.0.0",
+  "description": "HW11",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KurtjKing/wordGame.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KurtjKing/wordGame/issues"
+  },
+  "homepage": "https://github.com/KurtjKing/wordGame#readme",
+  "dependencies": {
+    "inquirer": "^6.2.1",
+    "is-letter": "^1.1.1"
+  }
+}
